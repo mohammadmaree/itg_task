@@ -1,0 +1,13 @@
+const String ITG_LOGO_S = 'assets/images/Group 3.png';
+const String ITG_LOGO_M = 'assets/images/Group 3@2x.png';
+const String ITG_LOGO_L = 'assets/images/Group 3@3x.png';
+const String WAVE_DMC_S  = 'assets/images/Group 4412.png';
+const String WAVE_DMC_M  = 'assets/images/Group 4412@2x.png';
+const String WAVE_DMC_L  = 'assets/images/Group 4412@3x.png';
+const String WAVE_DMC_WHITE_S  = 'assets/images/Group 4413.png';
+const String WAVE_DMC_WHITE_M  = 'assets/images/Group 4413@2x.png';
+const String WAVE_DMC_WHITE_L  = 'assets/images/Group 4413@3x.png';
+const String FINGER_S = 'assets/images/Group 4311.png';
+const String FINGER_M = 'assets/images/Group 4311@2x.png';
+const String FINGER_L = 'assets/images/Group 4311@3x.png';
+const String BACKGROUND= 'assets/images/Group 4658.png';
